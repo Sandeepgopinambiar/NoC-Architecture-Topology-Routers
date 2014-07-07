@@ -1,0 +1,7 @@
+
+
+1.	To make grant out from routers syncronous to other signals ( removing assign statements ).
+
+2.
+
+
